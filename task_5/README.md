@@ -1,1 +1,3 @@
-# Task 5 - coming soon
+# Task 5 - Ensemble classifiers (bagging, boosting, random forest)
+
+Coming soon...

@@ -1,4 +1,4 @@
-# Task 1 - dimensionality reduction
+# Task 1 - Dimensionality reduction
 
 This task focuses on work with "Polish companies bankruptcy" - a complex and specific dataset. The main issues that are included are listed below:
 * Data transformation

@@ -1,2 +1,3 @@
-# Task 4 - coming soon
- 
+# Task 4 - Clustering algorithms (k-means, DBSCAN)
+
+Coming soon...
