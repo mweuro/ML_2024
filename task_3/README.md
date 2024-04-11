@@ -1,3 +1,3 @@
-# Task 3 - Introduction to classification and regression trees (CART)
+# Task 3 - Decision trees
 
-Coming soon...
+Analyzing DecisionTreeClassifier on Secondary Mushroom dataset.
