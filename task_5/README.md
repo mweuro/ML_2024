@@ -1,3 +1,8 @@
-# Task 5 - Ensemble classifiers (bagging, boosting, random forest)
+# Task 5 - Ensemble classifiers
 
-Coming soon...
+Analysis of several ensemble classifiers:
+* Random Forest
+* Histogram-based Gradient Boosting
+* XGBoost
+* LightGBM
+* CatBoost
